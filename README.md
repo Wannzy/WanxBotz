@@ -1,0 +1,2 @@
+# WanxBotz
+Pemula buat bot 
